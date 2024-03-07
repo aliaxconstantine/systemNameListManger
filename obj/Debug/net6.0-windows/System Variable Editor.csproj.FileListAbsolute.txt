@@ -1,0 +1,22 @@
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.csproj.AssemblyReference.cache
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System_Variable_Editor.SystemInEditor.resources
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.csproj.GenerateResource.cache
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.AssemblyInfoInputs.cache
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.AssemblyInfo.cs
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.csproj.CoreCompileInputs.cache
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\System Variable Editor.exe
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\System Variable Editor.deps.json
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\System Variable Editor.runtimeconfig.json
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\System Variable Editor.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\System Variable Editor.pdb
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\SunnyUI.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.csproj.CopyComplete
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\refint\System Variable Editor.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.pdb
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System Variable Editor.genruntimeconfig.cache
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\ref\System Variable Editor.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\艾莉希雅\source\repos\System Variable Editor\obj\Debug\net6.0-windows\System_Variable_Editor.download.resources

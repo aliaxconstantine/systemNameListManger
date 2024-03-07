@@ -1,0 +1,12 @@
+{
+    "java":{
+        "url":"https://d6.injdk.cn/openjdk/openjdk/20/openjdk-20.0.2_windows-x64_bin.zip",
+        "path":"",
+        "cmd":"/s INSTALLDIR="
+    },
+    "python":{
+        "url":"http://npm.taobao.org/mirrors/python/3.9.0/python-3.9.0-amd64.exe",
+        "path":"",
+        "cmd":"/quiet InstallAllUsers=1 TargetDir="
+    }
+}

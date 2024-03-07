@@ -1,0 +1,15 @@
+{
+  "java": {
+    "JAVA_HOME": "",
+    "Path": "%JAVA_HOME%\bin"
+  },
+  "Node.js": {
+    "Path": ""
+  },
+  "python": {
+    "Path": ""
+  },
+  "mysql": {
+    "Path": ""
+  }
+}
